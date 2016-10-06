@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R betty:holberton ./*
+chown -R betty:holberton ./*
