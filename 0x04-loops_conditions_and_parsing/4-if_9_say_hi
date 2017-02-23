@@ -3,9 +3,7 @@
 
 i="0"
 while ((i < 10)); do
-    if [ $i -ne 8 ]; then
-	echo "Holberton School"
-    fi
+    echo "Holberton School"
     if [ $i == 8 ]; then
 	echo "Hi"
     fi
