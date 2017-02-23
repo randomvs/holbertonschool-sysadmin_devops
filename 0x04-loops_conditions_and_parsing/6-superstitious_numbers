@@ -10,10 +10,10 @@ while ((i < 21)); do
 	    echo "bad luck in China"
 	    ;;
 	9)
-	    echo "bad luck in japan"
+	    echo "bad luck in Japan"
 	    ;;
 	17)
-	    echo "bad luck in italy"
+	    echo "bad luck in Italy"
 	    ;;
     esac
 
