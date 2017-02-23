@@ -7,13 +7,13 @@ while ((i < 21)); do
     echo $i
     case $i in
 	4)
-	    echo "bad luck in China"
+	    echo "bad luck from China"
 	    ;;
 	9)
-	    echo "bad luck in Japan"
+	    echo "bad luck from Japan"
 	    ;;
 	17)
-	    echo "bad luck in Italy"
+	    echo "bad luck from Italy"
 	    ;;
     esac
 
