@@ -4,7 +4,7 @@
 h="0"
 while ((h < 12)); do
     echo Hour: $h
-    m="0"
+    m="1"
     while ((m < 60)); do
 	echo $m
 	m=$((m + 1))
